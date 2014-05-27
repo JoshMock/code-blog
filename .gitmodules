@@ -1,0 +1,9 @@
+[submodule "themes/light"]
+	path = themes/light
+	url = git://github.com/tommy351/hexo-theme-light.git
+[submodule "themes/memoir"]
+	path = themes/memoir
+	url = git://github.com/yhben/hexo-theme-memoir.git
+[submodule "themes/biture"]
+	path = themes/biture
+	url = https://github.com/kywk/hexo-theme-biture.git
